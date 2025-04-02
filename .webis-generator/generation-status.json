@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-04-02T15:05:17.288Z",
+  "status": {
+    "totalComponents": 8,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, subheadline, and call to action for the restaurant"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the restaurant's experience and expertise"
+    },
+    {
+      "name": "FeaturedDishesSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of the restaurant's signature dishes and menu items"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section highlighting the various services offered by the restaurant"
+    },
+    {
+      "name": "GallerySection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Visual showcase of the restaurant's ambiance, dishes, and events"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive reservation system for customers to book tables"
+    },
+    {
+      "name": "LocationSection",
+      "type": "map",
+      "status": "pending",
+      "description": "Map and contact information for the restaurant location"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with essential links, contact information, and social media"
+    }
+  ],
+  "repoName": ""
+}
