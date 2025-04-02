@@ -1,0 +1,11 @@
+{
+  "name": "מסעדה-אלפא-4200",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "next": "^12.0.0",
+    "react": "^18.0.0",
+    "tailwindcss": "^3.0.0"
+  },
+  "devDependencies": {}
+}
